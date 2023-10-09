@@ -27,7 +27,7 @@ ORDER BY total_orders DESC;
 
 -- Products with consistently high quantity levels but low orders
 WITH TotalQuantity AS (
-    SELECT 
+    SELECT
 	productCode, 
         productName, 
         SUM(quantityInStock) AS total_quantity
@@ -62,16 +62,13 @@ LIMIT 5;
 
 -- find the Utilization Rate
 SELECT
-    w.warehouseName,
-    w.warehousePctCap,
-    SUM(p.quantityInStock) AS total_quantity,
-    ROUND((SUM(p.quantityInStock) / w.warehousePctCap) / 100, 2) AS utilization_rate_pct
-FROM
-    warehouses AS w
-LEFT JOIN
-    products AS p USING(warehouseCode)
+	w.warehouseName,
+	w.warehousePctCap,
+	SUM(p.quantityInStock) AS total_quantity,
+	ROUND((SUM(p.quantityInStock) / w.warehousePctCap) / 100, 2) AS utilization_rate_pct
+FROM warehouses AS w
+LEFT JOIN products AS p USING(warehouseCode)
 GROUP BY
-    w.warehouseName,
-    w.warehousePctCap
-ORDER BY
-    utilization_rate_pct DESC;
+	w.warehouseName,
+	w.warehousePctCap
+ORDER BY utilization_rate_pct DESC;

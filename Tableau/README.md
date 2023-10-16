@@ -1,6 +1,6 @@
-# Thank you for expressing your interest in reviewing my portfolio.
+## Thank you for expressing your interest in reviewing my portfolio.
 
-# Below, you will find a link to my Tableau profile, where you can explore and visualize my work.
+## Below, you will find a link to my Tableau profile, where you can explore and visualize my work.
 
 [Tableau Link](https://public.tableau.com/app/profile/junkai.zheng/vizzes)
 

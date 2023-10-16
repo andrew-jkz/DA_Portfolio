@@ -1,6 +1,6 @@
 # Thank you for your interest in my work.
 
-In Coffee_Sales_Dashboard project, I've taken a deep dive into the world of data analysis using Excel. I've employed various Excel functions and features to clean and analyze data effectively. 
+In the Coffee_Sales_Dashboard project, I've taken a deep dive into the world of data analysis using Excel. I've employed various Excel functions and features to clean and analyze data effectively. 
 
 One of the highlights of this project is the use of powerful Excel functions such as XLOOKUP, INDEX, MATCH, and Pivot Tables. These functions have allowed me to efficiently process and transform data, creating meaningful insights.
 

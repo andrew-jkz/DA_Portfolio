@@ -1,4 +1,4 @@
-## Thank you for intersting
+## Thank you for expressing your interest in reviewing my portfolio!
 
 ## Walmart Sales Data Analysis
 This project involves the analysis of sales data from a Walmart store. The dataset includes various aspects of sales transactions

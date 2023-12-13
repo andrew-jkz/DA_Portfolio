@@ -1,1 +1,2 @@
-
+## Thank you for your interest in my work.
+This is a practice of A/B test to evaluate the performance of two distinct advertising campaigns – the Control and Test Campaigns. The objective was to decipher the effectiveness of each campaign variant in driving user interaction, product engagement, and conversion rates on their website. Through meticulous analysis of key performance metrics, including search behavior, website clicks, content views, cart additions, and purchase activities, the study aimed to identify nuanced differences between the campaigns.

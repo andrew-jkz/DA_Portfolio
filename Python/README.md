@@ -1,4 +1,4 @@
-# DATA ANALYTICS WITH R
+# DATA ANALYTICS WITH PYTHON
 
 ## Thank you for expressing your interest in reviewing my portfolio.
 ## Below, you will find a link to my Kaggle profile, where you can explore and visualize my work.
